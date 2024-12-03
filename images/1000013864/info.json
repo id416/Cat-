@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 24,
+    "height" : 32
+  }, {
+    "width" : 48,
+    "height" : 64
+  }, {
+    "width" : 96,
+    "height" : 128
+  }, {
+    "width" : 192,
+    "height" : 256
+  }, {
+    "width" : 384,
+    "height" : 512
+  }, {
+    "width" : 768,
+    "height" : 1024
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 768,
+  "@id" : "https://id416.github.io/Cat-/images/1000013864",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1024
+}

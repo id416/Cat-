@@ -7,5 +7,87 @@
             "All images loaded in id416/Cat- project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://id416.github.io/Cat-/images/1000013864/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1000013864"
+                ]
+            },
+            "height": 1024,
+            "width": 768,
+            "items": [
+                {
+                    "id": "https://id416.github.io/Cat-/images/1000013864/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://id416.github.io/Cat-/images/1000013864/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://id416.github.io/Cat-/images/1000013864/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 24,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 48,
+                                                "height": 64
+                                            },
+                                            {
+                                                "width": 96,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 192,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 384,
+                                                "height": 512
+                                            },
+                                            {
+                                                "width": 768,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 768,
+                                        "@id": "https://id416.github.io/Cat-/images/1000013864",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1024,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://id416.github.io/Cat-/images/1000013864/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
